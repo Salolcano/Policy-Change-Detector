@@ -1,0 +1,8 @@
+{
+  "index": 1,
+  "category": "material",
+  "severity": 6,
+  "changed_topics": ["ai_training", "data_sharing"],
+  "reason": "New clause allows using user content to train models and shares usage data with partners.",
+  "text_hash": "9f2c...(sha256 of normalized page text)"
+}

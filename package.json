@@ -1,0 +1,10 @@
+{
+  "name": "policy-change-detector",
+  "version": "0.1.0",
+  "private": true,
+  "description": "GenLayer Intelligent Contract: consensus-backed policy change detection",
+  "scripts": {
+    "test:logic": "python -m pytest tests/test_equivalence.py",
+    "test:integration": "gltest tests/integration"
+  }
+}
